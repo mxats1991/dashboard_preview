@@ -1,4 +1,4 @@
-# Фармацевтический аналитический дашборд
+# Дашборд анализа продаж фармацевтической компании
 
 ![Dashboard Preview (PDF)](https://disk.yandex.ru/i/yicqmkITnPckpA) 
 ![Dashboard Preview (Video)](https://disk.yandex.ru/i/AeqIzBOli6U3Pg) 
