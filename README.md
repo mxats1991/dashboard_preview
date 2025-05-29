@@ -1,7 +1,7 @@
 # Дашборд анализа продаж фармацевтической компании
 
-![Dashboard Preview (PDF)](https://disk.yandex.ru/i/yicqmkITnPckpA) 
-![Dashboard Preview (Video)](https://disk.yandex.ru/i/AeqIzBOli6U3Pg) 
+Dashboard Preview (PDF) https://disk.yandex.ru/i/yicqmkITnPckpA
+Dashboard Preview (Video) https://disk.yandex.ru/i/AeqIzBOli6U3Pg
 
 Создан на основе датасета: https://www.kaggle.com/datasets/krishangupta33/pharmaceutical-company-wholesale-retail-data
 ## 📌 О проекте
